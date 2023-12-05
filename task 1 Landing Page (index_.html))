@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Oasis Infobyte Landing Page</title>
+    <link rel="stylesheet" href="style_.css" />
+  </head>
+  <body>
+    <section class="hesec">
+      <div class="text_container">
+        <h2><span class="mn">Sometimes,we just need a break and a COFFEE</span></h2>
+        <h1 class="mn"></h1>
+      </div>
+    </section>
+    <section class="bb">
+      <h2><span> INDIAN CAFFE </span></h2>
+    </section>
+    <section class="work">
+      <div class="gem">
+        <div class="FUNC">
+          <div class="ic">
+            <img src="IMAGES/imag.png" alt="BEVERAGES" />
+          </div>
+          <div class="cc">
+            <h3>BEVERAGES</h3>
+            <p>
+              Sip into bliss at our cozy cafe! Indulge in rich coffees, exquisite teas, and refreshing smoothies. Every cup tells a story; let your taste buds narrate the tale. Cheers!
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="gem">
+        <div class="FUNC">
+          <div class="ic">
+            <img src="IMAGES/imag.png" alt="SNACKS" />
+          </div>
+          <div class="cc">
+            <h3>SNACKS</h3>
+            <p>
+              Crave-worthy delights await at our cafe! Elevate your taste buds with our scrumptious snacks—crispy bites, savory treats, and sweet indulgences. Unleash a world of flavor in every bite. Visit today!
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="gem">
+        <div class="FUNC">
+          <div class="ic">
+            <img src="IMAGES/imag.png" alt="DINING and PARTIES" />
+          </div>
+          <div class="cc">
+            <h3>DINING and PARTIES</h3>
+            <p>
+              Savor the moment at our café! Delight in delectable dining experiences and unforgettable parties. Indulge in flavorful cuisine, sip on crafted drinks, and celebrate life's moments with us. Cheers to joyous gatherings!
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="lastsec">
+      <div class="cont">
+        <h2>Address 1</h2>
+        <p>
+         6th Street lane, Bigeat complex ,near Church Street metro station , infront of Gaming Zone ,Bangalore Pincode: 560005 
+        </p>
+        <p>caffeindian@blore.tpos1</p>
+      </div>
+      <div class="about">
+        <h2>Address 2</h2>
+
+        <p>
+         13-B Christ Road Temp Food Complex, near Bus Stand, Christ Colony, Indiranagar, Bangalore Pincode: 560038 
+        </p>
+        <p>
+          caffeindian@blore.tpos2
+        </p>
+      </div>
+    </section>
+    <footer>Phone numbers: 9111022839, 9290849882, 0593-8387-1919</footer>
+  </body>
+</html>
